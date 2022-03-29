@@ -92,17 +92,17 @@ body {
 }
 
 .hero {
-    width: 700px;
+    width: auto;
     height: 700px;
     border-radius: 20px 20px 20px 20px;
     margin-bottom: 10%;
-    margin-left: 45%;
     margin-right: auto;
+    margin-left: 30%;
 }
 
 /* SEARCH FUNCTION */
 .card {
-    width: 700px;
+    width: auto;
     background-color: white;
     border-radius: 20px;
     padding: 10px;
