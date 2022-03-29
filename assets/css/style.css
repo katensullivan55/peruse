@@ -9,7 +9,6 @@ dialog::backdrop {
 #dialog {
     width: 400px;
     height: 250px;
-    margin-left: 40%;
     border-radius: 20px;
     background: rgb(69, 109, 219);
     color:white;
